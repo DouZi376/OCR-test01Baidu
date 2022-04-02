@@ -2,7 +2,7 @@
 
 import sys
 import json
-# QQ:376383538/微信：XzDz0816
+# QQ:376383538/
 # 保证兼容python2以及python3
 IS_PY3 = sys.version_info.major == 3
 if IS_PY3:
